@@ -8,7 +8,7 @@ OSNFT tokenizes truly open-source / public-domain datasets (e.g., scientific, go
 - Goal: Put impactful data on-chain.
 
 ## Why Cardano?
-- Low fees, sustainable PoS  
+- Low fees, sustainable protocol  
 - Native assets & metadata support  
 - Strong open-source & decentralization ethos
 
